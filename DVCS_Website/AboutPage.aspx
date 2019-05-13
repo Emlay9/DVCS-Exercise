@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="About Page.aspx.cs" Inherits="DVCS_Website.About_Page" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="AboutPage.aspx.cs" Inherits="DVCS_Website.About_Page" %>
 
 <!DOCTYPE html>
 
